@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">IntentsProj</string>
+    <string name="number1">Number 1</string>
+    <string name="number2">Number 2</string>
+    <string name="add">+</string>
+    <string name="minus">-</string>
+    <string name="multiflication">*</string>
+    <string name="devide">/</string>
+    <string name="hint1">Number 1</string>
+    <string name="hint2">Number 2</string>
+    <string name="toastMessage">To</string>
+    <string name="helloWorld">Hello World</string>
+    <string name="btn_ok">OK</string>
+    <string name="btn_to_calculator">Click Here</string>
+</resources>
